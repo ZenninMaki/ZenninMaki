@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @ZenninMaki
-- 👀 I’m interested in learning about AI
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me on discord or on my email
+👋 Hi, I’m @ZenninMaki 
+🌱 I’m currently learning some new things like rust and angular 
+I have nothing to say
 - discord: ryoiki.tenkaii
-<!---
-ZenninMaki/ZenninMaki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
