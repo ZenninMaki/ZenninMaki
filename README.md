@@ -1,7 +1,7 @@
 <div align="center">
 
 # ZenninMaki — Inka
-**Análise e Desenvolvimento de Sistemas • UNIP — Goiânia**
+**Análise e Desenvolvimento de Sistemas **
 
 *Converse. Conecte. Inkamuri.*
 
