@@ -21,9 +21,11 @@ Olá! Sou o Inka. Estudo ADS e gosto de aprender coisas nem tão novas assim —
 ### Stack que curto
 `Ruby` • `Python` • `Rust` • `Lua` • `C#` • `ASP.NET Core` • `WPF` • `SQL Server`
 
-### GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZenninMaki&layout=compact&theme=dark)
-![Stats](https://github-readme-stats.vercel.app/api?username=ZenninMaki&show_icons=true&theme=dark)
+### Atualmente estudando
+Recomendo **TypeScript** pra você, Inka — combina perfeito com seu C#/.NET e te abre portas pro front moderno e pro Node. É leve, tipada e muito usada em projetos como o Inkamuri se um dia quiser um front em React.
+
+### Projetos em destaque
+**[Inkamuri](https://github.com/ZenninMaki/inkamuri)** — chat Global com modo visitante, loja InkCoins, Premium e cliente Windows WPF leve. Stack: `.NET 10 • SignalR • SQL Server`.
 
 ---
 <div align="center">Feito com café e Inkamuri ☕</div>
